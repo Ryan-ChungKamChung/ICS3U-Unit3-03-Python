@@ -22,7 +22,7 @@ def main():
         # Output
         print("Nice! Your answer is right!")
 
-    elif magic_number != random_number:
+    else:
         # Output
         print("Oops! Your answer is wrong!")
         print("The correct answer was: {}".format(random_number))
