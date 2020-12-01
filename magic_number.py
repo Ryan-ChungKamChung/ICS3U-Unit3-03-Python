@@ -21,7 +21,6 @@ def main():
     if magic_number == random_number:
         # Output
         print("Nice! Your answer is right!")
-
     else:
         # Output
         print("Oops! Your answer is wrong!")
